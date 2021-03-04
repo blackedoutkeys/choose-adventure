@@ -210,8 +210,7 @@ const plot = [
     image: "/images/rocks.png",
     title: "Chapter 4",
     admin: "Chapter 4 || Frozen",
-    content:
-      "As you stand there you hear screams from the lake as Artie, the tug-of-war team captain, tells everyone to watch out! The boulder crashes into the lake with a loud crash and a wave pushes everyone to shore. Artie sees you standing there at the top of the hill and runs up to you both, screaming, 'What is wrong with you two? Why did you do anything to help us?!' He glares at you both and storms off in a huff. ",
+    content: "As you stand there you hear screams from the lake as Artie, the tug-of-war team captain, tells everyone to watch out! The boulder crashes into the lake with a loud crash and a wave pushes everyone to shore. Artie sees you standing there at the top of the hill and runs up to you both, screaming, 'What is wrong with you two? Why did you do anything to help us?!' He glares at you both and storms off in a huff.",
     choices: [
       {
         text: "Head to Campfire",
