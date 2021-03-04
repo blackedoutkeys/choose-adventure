@@ -67,7 +67,7 @@ const NavBar = (props) => {
   );
 };
 
-export default Navbar;
+export default NavBar;
 
 // import React, {useContext} from 'react';
 // import {Link} from 'react-router-dom';
