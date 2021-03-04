@@ -211,7 +211,7 @@ const plot = [
     title: "Chapter 4",
     admin: "Chapter 4 || Frozen",
     content:
-      "You scream as loud as you can and all the kids down below in the lake look up at you and move out of the way as the boulder comes careening down the hill. 'Why’d you do that?!' Ezra angrily asks. You respond, 'You can’t hurt people just cause they hurt me.' \n\nYou then run down to the lake and a young man you know as Artie approaches, thanking you for watching out for him and his friends. He then adds, 'we should get to the campfire, you can sit with us.’ You feel eyes staring at you as Ezra glares at you from afar. Ezra looks at you and says, 'we should get to the campfire before we get into more trouble.' ",
+      "As you stand there you hear screams from the lake as Artie, the tug-of-war team captain, tells everyone to watch out! The boulder crashes into the lake with a loud crash and a wave pushes everyone to shore. Artie sees you standing there at the top of the hill and runs up to you both, screaming, 'What is wrong with you two? Why did you do anything to help us?!' He glares at you both and storms off in a huff. ",
     choices: [
       {
         text: "Head to Campfire",
@@ -537,7 +537,7 @@ const plot = [
     title: "Chapter 11",
     admin: "Chapter 11 - The Bus",
     content:
-      "As you follow the horn sound of the horn, you realize it’s coming from the bus at the main drop off area. You walk up to the bus and see that it’s running, but the driver doesn’t seem to be in it. The doors are wide open and there is a brick sitting on the steering wheel - firing the horn.",
+      "As you follow the sound of the horn, you realize it’s coming from the bus at the main drop off area. You walk up to the bus and see that it’s running, but the driver doesn’t seem to be in it. The doors are wide open and there is a brick sitting on the steering wheel - firing the horn.",
     choices: [
       {
         text: "Go in the Bus",
