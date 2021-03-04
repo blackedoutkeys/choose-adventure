@@ -6,18 +6,18 @@ import { Howl, Howler } from "howler";
 function SoundButton() {
   const [playing, setPlaying] = React.useState(false);
 
-  const [buttonText, setButtonText] = React.useState("PLAY!");
+  const [buttonText, setButtonText] = React.useState("MUSIC!");
 
   var sound = new Howl({
     src: [Audio],
     onplay: function() {
       setPlaying(true);
 
-      setButtonText("STOP!");
+      setButtonText("STOP MUSIC!");
     },
     onstop: function() {
       setPlaying(false);
-      setButtonText("PLAY!");
+      setButtonText("PLAY MUSIC!");
     }
   });
 
