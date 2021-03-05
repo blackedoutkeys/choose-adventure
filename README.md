@@ -2,7 +2,7 @@
 
 An 80's inspired choose your own adventure game with just a touch of murder mystery.
 
-[Heroku Link](https://choose-adventure.herokuapp.com/)
+[Heroku Link](https://choose-your-own.herokuapp.com/)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
